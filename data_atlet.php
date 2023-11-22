@@ -69,7 +69,7 @@
                           <th>Tempat Lahir</th>
                           <th>Tanggal Lahir</th>
                           <th>Alamat</th>
-                          <th>Cabor</th>
+                          <th>Klasifikasi</th>
                           <th>Action</th>
                         </tr>
                         <tr>
